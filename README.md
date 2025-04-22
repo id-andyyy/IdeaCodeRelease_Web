@@ -90,5 +90,5 @@ TTBank - это многофункциональная платформа для
    ```
 4. Откройте браузер по адресу `http://localhost:5173`
 
-![tvoyff](https://github.com/user-attachments/assets/ea140323-4e47-43af-9090-b478ce70813f)
+![tvoyff](https://github.com/user-attachments/assets/0125cbfe-70b8-4d32-8260-4b33802cdb0b)
 
