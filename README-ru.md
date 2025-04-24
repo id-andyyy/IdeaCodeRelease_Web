@@ -99,6 +99,8 @@
 
 Проект написан за три дня в рамках хакатона [Идея. Код. Релиз&nbsp;&#128104;&#8205;&#128187;](https://codenrock.com/contests/codenrock-idea-code-release)
 
+Телеграм-бот Физик&nbsp;&#129302; находится в [отдельном репозитории](https://github.com/id-andyyy/IdeaCodeRelease_Bot).
+
 ## Начало работы
 
 ### Настройка Backend

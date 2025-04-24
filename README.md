@@ -35,7 +35,7 @@ Functionality:
 - &#128467;&nbsp;**Class Schedule**
   - View schedules for groups and teachers
   - Filtering and search
-  - This service is also available in the [Fizik Telegram Bot&nbsp;&#129302;](https://github.com/id-andyyy/IdeaCodeRelease_Bot) (separate repository)
+  - This service is also available in [Telegram Bot Fizik&nbsp;&#129302;](https://github.com/id-andyyy/IdeaCodeRelease_Bot) (separate repository)
 - &#127869;&nbsp;**Cafeteria Menu**
   - View menu by day
   - Information about dishes (composition, proteins, fats, carbohydrates, energy value)
@@ -97,6 +97,8 @@ Other services, such as the Scholarship Calculator&nbsp;&#129518; or Car Pass&nb
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 The project was written in three days as part of the hackathon [Idea. Code. Release&nbsp;&#128104;&#8205;&#128187;](https://codenrock.com/contests/codenrock-idea-code-release)
+
+Telegram bot Fizik&nbsp;&#129302; is located in a [separate repository](https://github.com/id-andyyy/IdeaCodeRelease_Bot).
 
 ## Getting Started
 
