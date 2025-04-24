@@ -143,4 +143,4 @@ Development team [Mojarung](https://t.me/mojarung):
 - [Roman Solovyov](https://github.com/Fors1ksx) (Frontend developer)
 - [Daria Govorovskaya](https://t.me/daryagovor) (UX/UI designer)
 
-Read in [Russian&nbsp;&#127479;&#127482;](README.md)
+Read in [Russian&nbsp;&#127479;&#127482;](README-ru.md)
