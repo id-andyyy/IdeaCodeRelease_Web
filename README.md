@@ -6,7 +6,7 @@
 
 # Твой ФФ&nbsp;&#127963;
 
-A web service for interaction between students of the MSU Faculty of Physics and university services&nbsp;&#128218;. Created as part of the hackathon [Idea. Code. Release&nbsp;&#128104;&#8205;&#128187;](https://codenrock.com/contests/codenrock-idea-code-release).
+A web service for interaction between students of the MSU Faculty of Physics and university services&nbsp;&#128218;. Created as part of the hackathon [Идея. Код. Релиз&nbsp;&#128104;&#8205;&#128187;](https://codenrock.com/contests/codenrock-idea-code-release).
 
 ## Description
 
@@ -35,7 +35,7 @@ Functionality:
 - &#128467;&nbsp;**Class Schedule**
   - View schedules for groups and teachers
   - Filtering and search
-  - This service is also available in [Telegram Bot Fizik&nbsp;&#129302;](https://github.com/id-andyyy/IdeaCodeRelease_Bot) (separate repository)
+  - This service is also available in [Telegram Bot Физик&nbsp;&#129302;](https://github.com/id-andyyy/IdeaCodeRelease_Bot) (separate repository)
 - &#127869;&nbsp;**Cafeteria Menu**
   - View menu by day
   - Information about dishes (composition, proteins, fats, carbohydrates, energy value)
@@ -96,9 +96,9 @@ Other services, such as the Scholarship Calculator&nbsp;&#129518; or Car Pass&nb
 ![Deepseek](https://img.shields.io/badge/Deepseek-%23F24E1E.svg?style=for-the-badge&logoColor=white&color=4d6bfe)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-The project was written in three days as part of the hackathon [Idea. Code. Release&nbsp;&#128104;&#8205;&#128187;](https://codenrock.com/contests/codenrock-idea-code-release)
+The project was written in three days as part of the hackathon [Идея. Код. Релиз&nbsp;&#128104;&#8205;&#128187;](https://codenrock.com/contests/codenrock-idea-code-release)
 
-Telegram bot Fizik&nbsp;&#129302; is located in a [separate repository](https://github.com/id-andyyy/IdeaCodeRelease_Bot).
+Telegram bot Физик&nbsp;&#129302; is located in a [separate repository](https://github.com/id-andyyy/IdeaCodeRelease_Bot).
 
 ## Getting Started
 
